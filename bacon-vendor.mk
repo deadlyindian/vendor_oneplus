@@ -142,7 +142,7 @@ ifeq ($(QCPATH),)
 PRODUCT_COPY_FILES += \
     vendor/oneplus/bacon/proprietary/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/oneplus/bacon/proprietary/bin/btnvtool:system/vendor/bin/btnvtool \
-    vendor/oneplus/bacon/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/oneplus/bacon/proprietary/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/oneplus/bacon/proprietary/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/oneplus/bacon/proprietary/bin/loc_launcher:system/vendor/bin/loc_launcher \
     vendor/oneplus/bacon/proprietary/bin/mpdecision:system/vendor/bin/mpdecision \
